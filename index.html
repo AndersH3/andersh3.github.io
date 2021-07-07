@@ -10,7 +10,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
 
-<title>github_page slides</title>
+<title>Utility_functions slides</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13327,7 +13327,83 @@ a.anchor-link {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Under construction</p>
+<h1 id="Utility-functions">Utility functions<a class="anchor-link" href="#Utility-functions">&#182;</a></h1>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[1]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="k">def</span> <span class="nf">prodPlusOne</span><span class="p">(</span><span class="n">L</span><span class="p">):</span>
+    <span class="n">L</span><span class="o">=</span><span class="nb">set</span><span class="p">(</span><span class="n">L</span><span class="p">)</span>
+    <span class="n">res</span><span class="o">=</span><span class="mi">1</span>
+    <span class="k">for</span> <span class="n">e</span> <span class="ow">in</span> <span class="n">L</span><span class="p">:</span>
+        <span class="n">res</span> <span class="o">=</span> <span class="n">res</span><span class="o">*</span><span class="n">e</span>
+    <span class="k">return</span> <span class="n">res</span><span class="o">+</span><span class="mi">1</span>
+
+<span class="k">def</span> <span class="nf">first</span><span class="p">(</span><span class="n">L</span><span class="p">):</span>
+    <span class="n">L</span><span class="o">=</span><span class="nb">list</span><span class="p">(</span><span class="n">L</span><span class="p">)</span>
+    <span class="k">return</span><span class="p">(</span><span class="n">L</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+
+<span class="k">def</span> <span class="nf">last</span><span class="p">(</span><span class="n">L</span><span class="p">):</span>
+    <span class="k">return</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">L</span><span class="p">)[</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Tests">Tests<a class="anchor-link" href="#Tests">&#182;</a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[3]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span></span><span class="n">pp</span><span class="o">=</span><span class="nb">set</span><span class="p">([</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">7</span><span class="p">,</span><span class="mi">11</span><span class="p">,</span><span class="mi">13</span><span class="p">])</span>
+<span class="k">print</span><span class="p">(</span><span class="n">first</span><span class="p">(</span><span class="n">pp</span><span class="p">))</span>
+<span class="k">print</span><span class="p">(</span><span class="n">last</span><span class="p">(</span><span class="n">pp</span><span class="p">))</span>
+<span class="n">ppp</span><span class="o">=</span><span class="n">prodPlusOne</span><span class="p">(</span><span class="n">pp</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">ppp</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+
+<div class="output_area">
+
+    <div class="prompt"></div>
+
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>11
+7
+6007
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p><a href="./todo.html">TODO</a></p>
 
 </div>
 </div>
