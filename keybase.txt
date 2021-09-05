@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andershellstrom2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andersh3.gitub.io
+  * I am andershellstrom2 (https://keybase.io/andershellstrom2) on keybase.
+  * I have a public key with fingerprint 10F4 BB2F BEF6 C07C 9961  8330 DE95 9F4F 8C71 A7DE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101bf765ef88b111d027ce0c4ac49606ae0405c7888fc711865b4b66b8ff003eee10a",
+      "fingerprint": "10f4bb2fbef6c07c99618330de959f4f8c71a7de",
+      "host": "keybase.io",
+      "key_id": "de959f4f8c71a7de",
+      "kid": "0101bf765ef88b111d027ce0c4ac49606ae0405c7888fc711865b4b66b8ff003eee10a",
+      "uid": "ee6187393afb1a98c5150b1e54f93719",
+      "username": "andershellstrom2"
+    },
+    "service": {
+      "hostname": "andersh3.gitub.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1630849853,
+  "expire_in": 157680000,
+  "prev": "ba6a903d9dd21c5eabe63e3d29d8830a2e3b0f8445f30cde426bd3d7af4aadad",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMI5AnicrZJbaBVHGMdPqiYxam1DFIrYhy2kUVKZ2dnL7IkGe4hVCrUPXlqscpzZ
++eacJcfdc3Y3MSE9iAFv0bZY29ISUkoxCaWNWBKwWrCpeAMj2AsqeIGWWkrQGtHQ
+VhScje1DoY+dl2Hm+/9/8/8+5uScaamaillfdq//8R32VsW5b/vbUsw4t6xL44Ho
+1NJdWitMbVAQEMXZVk9oaQ1hhLm0LRMkpRxjLJBuu4Bcg7mGYyGLATKQ6dqUUuna
+GFPL5Aa3LE6lRIgAAEZMa9Sk5+cgLIaeHyssRtLgXJccpOUi23UcC1NCkADHdKQh
+qUIxW4Ay5oMocahwnEWwxAvUnTpkp+L9h/5/zt02hQNQ+WziECY5Zg51TWwijsE0
+pENs7CTCCEKfbQGlZr6AMMpDoRDFYbBF18qNmqq2ey4kA046+reSLMl5cRt/3Fwx
+DOLADQqqnI/jYpRO7HFnMdFvBZ79m5Tlni/UUJWjXTG8wNfSWCnd2EvQ2CKIGg41
+SaMGHUUvhKyXKEzbokit5B1oV0jOLOYgIhwhdOyawDhYBIjQHUEpQUwHwpGkhmFK
+glwBhm5xQYTNpMGYYEJLeiv5gZbWTZWT5RQz8nI+i9tC0MonRjdOT1XUpCpnPJH8
+tlTNzKf++YOlkaoHs0dfHty/6gezdOcPZ86T5YWTXS1rrebKw8Zp77tZu5disn95
+Z8X8XW+eeJWan/R+3HBz928DB3Gu/OvJVam33/1+4OLN3tXjK/t+uTu+4nj+1KIG
+9lV+542JmX9NPj/3ftWN8/Wzn7scX6u9W3822332dqnwenepNbPx628mr0bbH6yb
+8DZ8Nnqkp3p824Wn3/uQXcku2Het6aXVLb8PXg8XvPjRgcX9mUun9D1jBmwaOqYf
+2Lxjz6fPRNd75h19f023/8ULh7KvlMaM3mczt+qGNm/qGLXWtTT0namrfmO4uXbr
+6cmHx1M/acv+3NvTP5dn5v2cZis/j+Vrtz6ovzfSNHypq5wprQjhEWxTR1A=
+=TvYR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andershellstrom2
+
+==================================================================
