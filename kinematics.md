@@ -14,3 +14,5 @@ Advances in Numerical Algebraic Geometry with Applications
 https://www.youtube.com/watch?v=80Z2dw9GYtA
 
 
+https://www3.nd.edu/~cwample1/
+
