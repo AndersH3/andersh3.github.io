@@ -8,4 +8,8 @@
 * https://alternativeto.net/software/emanim-online/about/
 * https://alternativeto.net/software/phet-interactive-simulations/
 
+<hr>
+
 * https://www.compart.com/en/unicode/
+
+<hr>
