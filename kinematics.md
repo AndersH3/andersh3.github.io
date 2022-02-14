@@ -18,3 +18,6 @@ https://www3.nd.edu/~cwample1/
 
 https://www.youtube.com/watch?v=OtF2syzZehQ&list=PL5ErEZ81Tyqc1RixHj65XA32ejrS2eEFK
 
+
+https://en.wikipedia.org/wiki/Magma_(computer_algebra_system)
+
