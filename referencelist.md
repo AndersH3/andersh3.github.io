@@ -4,5 +4,8 @@
 
 * Introduction to Commutative Algebra https://www.youtube.com/channel/UC5bYU2EJPbe79cM4J2z_d5g
 * Basic Algebraic Geometry : Varieties, Morphisms, Local Rings, Function Fields and Nonsingularity by Dr. T.E. Venkata Balaji,Department of Mathematics,IIT Madras https://www.youtube.com/watch?v=-MASKnQriQo&list=PLbMVogVj5nJSNj24jdPGivlJtxbxua2by
+
+
+* OLOF BERGVALL - ANTECKNINGAR - LINJÄR ALGEBRA II https://drive.google.com/file/d/1BqKyOPZaepPMwpZ4qXI8F7YPKgN-Fv2K/view
  
  
