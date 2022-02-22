@@ -1,3 +1,4 @@
+* Commutative Algebra and Algebraic Geometry https://www.youtube.com/watch?v=ZgwJdT0DaQ4&list=PLn6dA-hP_G8SR-v8EV5m9vcpo-V9No-2V
 * Computational Algebraic Geometry Emre Sertöz
  https://www.youtube.com/playlist?list=PL5ErEZ81Tyqc1RixHj65XA32ejrS2eEFK
 
