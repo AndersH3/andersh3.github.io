@@ -4,61 +4,49 @@ https://keybase.io/andershellstrom2
 
 I hereby claim:
 
-  * I am an admin of https://andersh3.github.io
+  * I am an admin of https://ran.gb.net
   * I am andershellstrom2 (https://keybase.io/andershellstrom2) on keybase.
-  * I have a public key with fingerprint 10F4 BB2F BEF6 C07C 9961  8330 DE95 9F4F 8C71 A7DE
+  * I have a public key ASCbvpe7_IjethOTct5sJnhJ2b_u9ZRRWN-pa6sLCUtzfgo
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "0101bf765ef88b111d027ce0c4ac49606ae0405c7888fc711865b4b66b8ff003eee10a",
-      "fingerprint": "10f4bb2fbef6c07c99618330de959f4f8c71a7de",
+      "eldest_kid": "0120110bf32b47207fed4aede4b335262ac6f3b16557a87fc81ad74da5e894d7813a0a",
       "host": "keybase.io",
-      "key_id": "de959f4f8c71a7de",
-      "kid": "0101bf765ef88b111d027ce0c4ac49606ae0405c7888fc711865b4b66b8ff003eee10a",
+      "kid": "01209bbe97bbfc88deb6139372de6c267849d9bfeef5945158dfa96bab0b094b737e0a",
       "uid": "ee6187393afb1a98c5150b1e54f93719",
       "username": "andershellstrom2"
     },
+    "merkle_root": {
+      "ctime": 1679354783,
+      "hash": "0b4a8a58abec364cb84a69adae4023d997590abecb5f5d71becd3ffe89caef7147bae06a39fe447cf6503bd44b736624bf9593d384ab65ec670c7d576db29f43",
+      "hash_meta": "22333a14051845a3110410b23a5295e6718ea8814e171de4e366e8e6f8f9a1d7",
+      "seqno": 24225194
+    },
     "service": {
-      "hostname": "andersh3.github.io",
+      "entropy": "rwdPh0vHt+XvGJi6kadzfqua",
+      "hostname": "ran.gb.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1630849997,
-  "expire_in": 157680000,
-  "prev": "9b0ea8d9e412da4b53ae5b56f9a247f9b31a7716212e026798ca2514ef60ce34",
-  "seqno": 26,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1679354794,
+  "expire_in": 504576000,
+  "prev": "28cd29ef8e6ff216d602441c8f69ddcf50324387e1f82f43d697c53bd85c49b5",
+  "seqno": 65,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.1.13
-Comment: https://keybase.io/crypto
-
-yMItAnicrVJZSFVBGL5aRtm+QLSBnIeUusnM2c8No0QjWo0yeohuM+f84z157z23
-c4+miJa2kSBSPrUX0mLQg1lZodliREUvJbTTSlJQ0WJFZTTH6iHosXkZZv7v++b7
-/vk7h/YLpKcMbq5Z1lVP6lKuXzhUEiDy9RsVAnWsciFUIRRD3wZRC5JeuNi2hJCA
-MMKUaaoCTNcpxthComYCMmViyoaKVAJIRoqp6brOTA1jXVWoTFWV6owhJAEARkQI
-CsyOF4GbcO24x2UxYjKlIqPAVBNppmGoWJckZIGhGExmOpcimgWcGHGSPoOboyQJ
-2bbD7/gh3GfvH/j/7LukTw6A+9MkQyKMYmLopoIVRDEoMjMkDRs+MAlunMSAo0nc
-AjcZgWg06blOTBQqgwKvltom+A32E/2NlLKLbC9SQn+lS7iO55hOlNcjnpdIhny+
-V57wCWuBhn9Lhakdt3hXOaOUi9hOXAhhjjQ929fGqoR02TAMLShAWcJ2IWz7CEVT
-dcSX/w6UckmDIiC6ZYCMRYvIVJEIKFRRmUFEWWMGlXhrNayKWAQkqhpPT0QFy/zr
-kAmSLPjh1sQdISSq3Ccp4ppJuyhOvBIXhMqL51f0D6SkBwakpfrjFkgfNOLPEL5M
-HxjYfK73VsuMsm/KsIwlkX3bh9U+rZ/6qGt5XWrtuSEd1bv6v199NOPE/KwPDxsP
-fzqSNuVaQ13b45tq/qY3V+7PKT6cdvZdcOOGuy/G7Tp6jN3Jy0ltjVUv/fLjXmhk
-25Ss7MFH6sOXxHZHnzzybHfpmm3z1gtNHbndrj6dDGcFiy5PbXogk52jnp3Kb3o+
-YNPGLVXW8dFK5FVeZteTsu7O/W935xzYey3/o7ljRlXvxFVf9p+p/Hrn87HCrU1Z
-kD3pdU9NBMZaV8a8lC56txcvnHX1e2fuypNzCzomR/DVgueBjJa8jPH2gtb2dZmf
-Tk/IXFhY1VzddmNaomJ2rGfmnrSD7fmNoxusn2EdSKc=
-=rTpU
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm76Xu/yI3rYTk3LebCZ4Sdm/7vWUUVjfqWurCwlLc34Kp3BheWxvYWTESpcCQcQgKM0p745v8hbWAkQcj2ndz1AyQ4fh+C9D1pfFO9hcSbXEIFJW0c80fiilSrdcUKv0MdPiE30rRid4yyfTLiXhOsxDAgHCo3NpZ8RAewN+99//t5Q0Uy1JMQAB8ccLWIeUG/yQjYMdKy79JdZ/8MIxUrbR5UijYzsdv59qTcSGq/7C7SQVkoalXpFlAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFdPcnQgZanKmTaiBYUkPEoadIdvSg9iEvWJpdqiR+Cko3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
